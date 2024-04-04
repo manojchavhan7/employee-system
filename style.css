@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    scrollbar-width: none;
+  }
+.error {
+    color: red;
+}
+.success {
+    color: green;
+}
+.labels{
+    width: 119px;
+    height: 25px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+.inputdiv{
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-color: white;
+    color: black;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
